@@ -17,6 +17,8 @@
                             <th>氏名</th>
                             <td><c:out value="${employee.name}" /></td>
                         </tr>
+
+
                         <tr>
                             <th>権限</th>
                             <td>
